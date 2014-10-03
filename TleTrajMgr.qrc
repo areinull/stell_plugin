@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="stell_plug" >
+    <file>glow32x32.png</file>
+    <file>sat_hint_2.png</file>
+    <file>bt_tletraj_on.png</file>
+    <file>bt_tletraj_off.png</file>
+  </qresource>
+</RCC>

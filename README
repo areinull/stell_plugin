@@ -1,0 +1,23 @@
+BUILD & INSTALL
+
+In CMakeLists.txt correct STELL_PATH so, that it points to stellarium root
+(Ex. SET(STELL_PATH "$ENV{HOME}/stellarium/stellarium-0.10.5")).
+Stellarium should be already built in directory STELL_PATH/builds/unix.
+
+cd build
+cmake ..
+make
+make install
+
+
+DEPS
+
+* qt4
+* opengl
+* stellarium
+* jpeg
+* png
+* iconv
+* vu_tools
+* ntptime
+* mysqlclient

@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="stell_plug" >
+    <file>bt_sattraj_on.png</file>
+    <file>bt_sattraj_off.png</file>
+    <file>sat_hint_1.png</file>
+    <file>triangle.png</file>
+    <file>square.png</file>
+    <file>glow32x32.png</file>
+    <file>Zero.png</file>
+    <file>ZeroOn.png</file>
+    <file>arrow.png</file>
+    <file>ntpSyncOff.png</file>
+    <file>ntpSyncOn.png</file>
+    <file>sample_hint.png</file>
+  </qresource>
+</RCC>
